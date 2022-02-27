@@ -1,4 +1,4 @@
-name: D:\DLCVANLP\MLflow-project\env
+name: MLflow-CNN
 channels:
   - defaults
 dependencies:
